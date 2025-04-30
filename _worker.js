@@ -6,7 +6,7 @@ let hub_host = 'registry-1.docker.io'
 const auth_url = 'https://auth.docker.io'
 // 自定义的工作服务器地址
 //let workers_url = 'https://docekr-io.pages.dev'
-let workers_url = 'https://docekr-io.pages.dev'
+let workers_url = 'https://clckuhdocker-io.pages.dev'
 
 // 根据主机名选择对应的上游地址
 function routeByHosts(host) {
